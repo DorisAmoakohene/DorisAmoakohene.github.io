@@ -28,7 +28,7 @@ navbar-links:
     # - MixSIAR: "mixsiar"   
   Publications: "publications"
     # - Published: "pubs" 
-  Teaching: "teaching"
+  #Teaching: "teaching"
     # - Mixing models: "work-mixingmodels"
     # - Intro to R: "work-introR"
   Research: "research"
@@ -73,7 +73,7 @@ author:
   twitter: DorisAfriyie2   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: Dori Afriyie Amoakohene  # eg. daattali
+  linkedin: Doris Afriyie Amoakohene  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
