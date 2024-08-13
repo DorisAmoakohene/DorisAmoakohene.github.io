@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sharfstein Lab
+title: new Lab
 
 ---
 
 
-### Hidden Markov Models
+### SICCS
 
 Coming up ...
