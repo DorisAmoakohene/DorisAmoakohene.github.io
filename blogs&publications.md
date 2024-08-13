@@ -3,7 +3,7 @@ layout: page
 title: Blogs and Publications
 
 ---
-***BLOGS***
+***Blogs***
 
 - **Doris Afriyie Amoakohene**, Conducting Performance Tests on R Packages: A Guide Using data.table as a Reference. [pdf](https://github.com/rdatatable-community/The-Raft/tree/main/posts/2024-09-01-Performance-Doris_Amoakohene)
 
