@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://rberch.github.io"
+url: "http://DorisAmoakohene.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ransmond Berchie
+title: Doris Afriyie Amoakohene
 
 # Short description of your site
-description: PhD Biostatistics Student
+description: Informatics Student
 
 # --- Navigation bar options --- #
 
@@ -32,17 +32,17 @@ navbar-links:
     # - Mixing models: "work-mixingmodels"
     # - Intro to R: "work-introR"
   Research: "research"
-    #- Medical Innovation Lab: "adamslab"    
-    #- Scharfstein Lab: "sharf"
+    #- Medical Innovation Lab: "TDHocklab"    
+    #- Scharfstein Lab: "Newlab"
     #- Yue's Lab: "yue"
     #- Spatial bycatch prediction: "spatialbycatch"    
     #- Mixing models to estimate diet: "mixingmodels"
   Service: "service"
-  CV: "https://rberch.github.io/pdf/Ransmond_cv.pdf"
+  CV: "https://github.com/DorisAmoakohene/rberch.github.io/blob/master/pdf/Doris%20Afriyie%20Amoakohene-Official%20CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/big-img/ransmondB2.jpg"
+avatar: "/img/big-img/Dorispic.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -65,15 +65,15 @@ avatar: "/img/big-img/ransmondB2.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ransmond Berchie
-  email: "ransmond.berchie@utah.edu"
+  name: Doris Amoakohene
+  email: "daa464@nau.edu"
   #facebook: yourname  # eg. daattali
-  github: rberch    # eg. daattali
-  resume_google_scholar_url:  "https://scholar.google.com/citations?user=tDDiHacAAAAJ&hl=en"
-  twitter: RansmondBerchie   # eg. daattali
+  github: DorisAmoakohene    # eg. daattali
+  #resume_google_scholar_url:  "https://scholar.google.com/citations?user=tDDiHacAAAAJ&hl=en"
+  twitter: DorisAfriyie2   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: rberchie  # eg. daattali
+  linkedin: Dori Afriyie Amoakohene  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
