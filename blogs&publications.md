@@ -13,7 +13,7 @@ title: Blogs and Publications
 
 ***Publications In Progress***
 
-**Doris Afriyie Amoakohene**, Toby Hocking and Anirban Chetia, "atime for Asymptotic Timings by "to be published in the R Journal
+**Doris Afriyie Amoakohene**, Toby Hocking and Anirban Chetia, "atime for Asymptotic Timings" planned submission to R Journal
 
 
 
