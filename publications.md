@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blogs and Publications
+title: Publications
 
 ---
 ***Blogs***
