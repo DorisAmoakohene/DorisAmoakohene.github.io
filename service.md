@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Service
+title: Volunteering & Service
 
 ---
 
