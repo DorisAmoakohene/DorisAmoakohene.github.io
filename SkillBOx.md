@@ -15,3 +15,19 @@ title: SkillBOx
 - My proficiency in **computational and discrete mathematics**, **linear algebra**, **number theory**, **probability**, and **statistics** strengthens my **analytical thinking**. I am also an **expressive and creative writer**, adept at conveying ideas with clarity and quality.
 
 Above all, I value **adaptability** and **continuous learning**, always seeking new challenges to expand my skillset and grow both personally and professionally.
+
+### Programming Skills
+
+- I excel in writing **clean, readable, organized, and maintainable code**, with a strong focus on **performance**.
+- My proficiency in **R** is significant, having developed two R packages: one for **Gaussian Mixture Models (GMM)** and another for **PCA** and related tasks.
+- I've also utilized **C++ for large-scale data analysis**, leveraging its efficiency for complex projects.
+- I have experience with **Python**, which I’ve used for **software development studies**.
+- I hold certifications in **Introduction to Python for Developers**, as well as several **DataCamp certifications** in:
+  - **Data Manipulation with data.table in R**
+  - **Data Analyst in R**
+  - **Introduction to SQL**
+  - **Intermediate R**
+  - **Introduction to R**
+
+These certifications demonstrate my commitment to expanding my skillset and staying up-to-date with industry standards. With a solid foundation in programming languages like **R**, **C++**, and **Python**, I’m well-equipped to tackle a wide range of technical challenges.
+
