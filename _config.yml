@@ -26,7 +26,7 @@ navbar-links:
   About: #"aboutme"
     # - WHAM: "wham"
     # - MixSIAR: "mixsiar"   
-  Publications: "blogs & publications"
+  Blogs & Publications: "blogs & publications"
     # - blogs&Published: "pubs" 
   Research: "research"
     #- Medical Innovation Lab: "TDHocklab"    
