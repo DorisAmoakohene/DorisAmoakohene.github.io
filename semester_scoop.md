@@ -22,7 +22,8 @@ I will outline my semester goals and accomplishments related to my graduate assi
 - **November – December 10, 2023**
   
 
-- **Vacation**
+# Vacation**
+December 12 - Januray 13
 
 # SPRING 2024
 
