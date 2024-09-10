@@ -1,5 +1,5 @@
 ---
 layout: page
-title: SkillB)x
+title: SkillBOx
   
 ---
