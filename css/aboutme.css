@@ -44,3 +44,21 @@
   font-size: 1.2rem;
   font-family: arial;
 }
+
+.background {
+  background: url('img/background.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  max-width: 800px;
+  text-align: center;
+}
