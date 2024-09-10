@@ -13,10 +13,7 @@ Here, I'll be sharing regular updates on my progress, semester by semester, as I
 # FALL 2023
 
 ## Semester Goals
- - Examine data.table repository, including issues about performance regressions, to create five new relevant performance tests, and use atime to analyze three different code branches (before regression, regression, fix regression) and create github action for performance testing, which is run for every Pull request. 
- - Utilize the atime package to generate figures that demonstrate the efficiency of the data.table package in comparison to other Python packages such as pandas.
- - Improve data.table to make two educational resources like blog posts or videos to teach users how to use data.table effectively.
- - Create slides and present results in machine learning group meeting.
+
 
 ## Workweeks
 
@@ -36,6 +33,11 @@ December 12 - Januray 13
 # SPRING 2024
 
 ## Semester Goals
+
+ - Examine data.table repository, including issues about performance regressions, to create five new relevant performance tests, and use atime to analyze three different code branches (before regression, regression, fix regression) and create github action for performance testing, which is run for every Pull request. 
+ - Utilize the atime package to generate figures that demonstrate the efficiency of the data.table package in comparison to other Python packages such as pandas.
+ - Improve data.table to make two educational resources like blog posts or videos to teach users how to use data.table effectively.
+ - Create slides and present results in machine learning group meeting.
 
 ## Workweeks
 
