@@ -18,6 +18,7 @@ Here, I'll be sharing regular updates on my progress, semester by semester, as I
  - Improve data.table to make two educational resources like blog posts or videos to teach users how to use data.table effectively.
  - Create slides and present results in machine learning group meeting.
 
+## Workweeks
 
 - **August – September 2023**
   
@@ -35,6 +36,8 @@ December 12 - Januray 13
 # SPRING 2024
 
 ## Semester Goals
+
+## Workweeks
 
 - **January 15 – 31**
 
@@ -72,4 +75,8 @@ December 12 - Januray 13
 
 
 # FALL 2024
+
+## Semester Goals
+
+## Workweeks
 
