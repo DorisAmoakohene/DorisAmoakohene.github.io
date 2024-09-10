@@ -23,7 +23,7 @@ description: Informatics Student
 
 # List of links in the navigation bar
 navbar-links:    
-  About: "aboutme"
+  My_Story: "MyStory"
     # - WHAM: "wham"
     # - MixSIAR: "mixsiar"   
   Publications: "publications"
