@@ -14,7 +14,7 @@
       {% endif %}
     </div>
 
-    <div class="collapse navbar-collapse" id="main-navbar">
+    <div class="collapse navbar-collapse" id="main-navbhrefar">
       <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
         {% if link[1].first %}
@@ -24,6 +24,9 @@
               {% for childlink in link[1] %}
                 {% for linkparts in childlink %}
                   {% include navbarlink.html link=linkparts %}
+		    <a href="{{ linkparts[1] | relative_url }}" 
+			    {% if linkparts[1] contains '.pdf' %}target="_blank"{% endif %}
+			    >{{ linkparts[0] }}</a>
                 {% endfor %}
               {% endfor %}
             </div>
