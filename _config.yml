@@ -23,7 +23,7 @@ description: Informatics Student
 
 # List of links in the navigation bar
 navbar-links:    
-  My_Story: "MyStory"
+  MyStory: "MyStory"
     # - WHAM: "wham"
     # - MixSIAR: "mixsiar"   
   Publications: "publications"
@@ -35,8 +35,8 @@ navbar-links:
     #- Spatial bycatch prediction: "spatialbycatch"    
     #- Mixing models to estimate diet: "mixingmodels"
   Volunteering: "Volunteer"
-  Semester_Scoop: "semester_scoop"
-  DAA_Chronicles: "daa_Chronicle"
+  SemesterScoop: "semester_scoop"
+  DAAChronicles: "daa_Chronicle"
   CV: "https://github.com/DorisAmoakohene/rberch.github.io/blob/master/pdf/Doris%20Afriyie%20Amoakohene-Official%20CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
