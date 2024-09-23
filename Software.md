@@ -3,8 +3,8 @@ layout: page
 title: Software
   
 ---
-Free/open-source software 
-My main contributions to free/open-source software are R packages in all statistical methods
+
+My primary contributions to free and open-source software are R packages focused on various statistical methods.
 
 ***Contributor to: "***
 
