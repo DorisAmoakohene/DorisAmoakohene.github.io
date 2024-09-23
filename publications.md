@@ -11,8 +11,9 @@ title: Publications
 
 
 ***Contributor to: "***
-[data.table](https://rdatatable.r-universe.dev/data.table)
-[atime](https://github.com/tdhock/atime/graphs/contributors)
+- [data.table](https://rdatatable.r-universe.dev/data.table)
+  
+- [atime](https://github.com/tdhock/atime/graphs/contributors)
 
 
 
