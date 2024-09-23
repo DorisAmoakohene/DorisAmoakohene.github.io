@@ -15,6 +15,8 @@ Motto: "Educate the girl, Empower the nation" - Proverbs 19:17 (NIV)
 LAG PRESTIGE Foundation is a charitable organization registered under the Ghana Registry of Business, dedicated to empowering young girls and women through mentorship, skill training, empowerment, and charity works. Our vision is to reach the maximum number of needy individuals, especially girls, to support their overall development.
 
 
+
+
 # Our Mission
 
 To convene girls from across the country, providing a platform for:
